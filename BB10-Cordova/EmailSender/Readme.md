@@ -15,8 +15,9 @@ This extension provides additional APIs to send emails from an app.
 
 	1.0.0 Initial Release
 	1.0.1 Adds method for getting Email Accounts
-	1.0.2 Now supports HTML emails in addition to plain text, flag for stripping of html tags for text emails
-	1.0.3 Supports automatic adding of vcf, signature, or attachments to email
+	1.0.2 Now supports HTML emails in addition to plaintext
+	1.0.3 Adds support for sending attachments
+	1.0.4 Adds support of automatic adding of vcf, signature, or attachments to email
 
 ## Set up
 From registry
